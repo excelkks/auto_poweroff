@@ -1,4 +1,4 @@
-# auto_powerof
+# auto_poweroff
 windows10 系统自动关机批处理文件  
 ## 定时关机.bat
 **说明**  
